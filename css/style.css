@@ -1,0 +1,53 @@
+body {
+    display: grid;
+    place-items: center;
+    /* would flex work better for this project? */
+    min-height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.container {
+    display: grid;
+    align-items: start;
+    background-color: hsl(0, 0%, 100%);
+    height: 340px;
+    width: 220px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: .1em .5em 1.5em hsl(210, 7%, 76%);
+}
+
+.QR-code {
+    width: 220px;
+    border-radius: 10px;
+    object-fit: contain;
+    /* Is object-fit necessary when I set the height and width of the container and the QR code? */
+    
+    /* Do I need positioning? */
+}
+
+.text-box {
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first-paragraph {
+    font-size: 15px;
+    font-weight: 700;
+    width: 200px;
+    color: hsl(218, 44%, 22%);
+}
+
+.second-paragraph {
+    font-size: 11px;
+    font-weight: 400;
+    width: 190px;
+    color: hsl(216, 15%, 48%);
+    margin-bottom: 20px;
+}
+
