@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 - This is my first project with Front-End Mentor!  I'd appreciate feedback on how to make my code more efficient, as well as any other advice as a someone still learning these HTML & CSS skills.  I have left comments in my code for areas with specific questions. 
 - I am also having a difficult time learning my way around GitHub and the process of pushing, updating, and editing projects. I'd be grateful for any assistance with learning this. 
-- Lastly, attaching the URLs have been a challenge! Please see notes below...
+
 Thank you! - Jodi
 
 ### Screenshot
@@ -24,10 +24,8 @@ A screenshot of my completed QR Project: (./QR-Screenshot.png)
 
 
 ### Links
-<!-- I am unsure of how to add the Solution URL here apart from the QR-Screenshot attached. -->
-<!-- Is my live site URL correct? If not, how can I change this? -->
-- Solution URL: [Add solution URL here](https://your-solution-url.com) 
-- Live Site URL: (http://127.0.0.1:5500/)
+- FrontEnd Mentor Solution URL: (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) 
+- My Live Site URL: (https://jodideangelis.github.io/QR-Code/)
 
 
 ## My process
